@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnlineQuiz1</string>
+    <string name="option_1">Opsi 1</string>
+    <string name="option_2">Opsi 2</string>
+    <string name="option_3">Opsi 3</string>
+    <string name="option_4">Opsi 4</string>
+</resources>
